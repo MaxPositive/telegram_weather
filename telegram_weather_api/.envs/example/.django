@@ -1,0 +1,8 @@
+# Django
+SECRET_KEY='django-insecure-i%424q4r7ii7gf6c03ij=^_&ii_45hcz@app_pogqc&9_x^3@c'
+
+YANDEX_API_KEY=YOUR_API_KEY
+
+USE_ENV=False
+
+REDIS_URL=redis://redis

@@ -1,0 +1,8 @@
+# DB
+DATABASE_URL=postgres://admin:admin@db/weather
+
+POSTGRES_HOST=db
+POSTGRES_PORT=5432
+POSTGRES_DB=weather
+POSTGRES_USER=admin
+POSTGRES_PASSWORD=admin

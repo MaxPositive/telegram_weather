@@ -1,0 +1,25 @@
+#!/bin/bash
+
+set -o errexit
+set -o pipefail
+set -o nounset
+
+poetry run python manage.py migrate
+
+# Check if the superuser already exists
+if poetry run python manage.py shell -c "from django.contrib.auth.models import User; print(User.objects.filter(username='admin').first())" | grep -q 'admin'; then
+    echo "Superuser 'admin' already exists. Skipping creation."
+else
+    # Create the superuser
+    poetry run python manage.py shell <<EOF
+from django.contrib.auth.models import User
+User.objects.create_superuser('admin', 'admin@example.com', 'admin')
+EOF
+
+    echo "Superuser 'admin' created successfully."
+fi
+
+
+poetry run python manage.py loaddata fixtures/cities_fixture.json
+
+poetry run python manage.py runserver 0.0.0.0:8000

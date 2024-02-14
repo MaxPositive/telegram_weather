@@ -1,0 +1,3044 @@
+[
+  {
+    "model": "weather.city",
+    "pk": 1,
+    "fields": {
+      "name": "Абакан",
+      "latitude": 53.72,
+      "longitude": 91.43
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 2,
+    "fields": {
+      "name": "Адлер",
+      "latitude": 43.43,
+      "longitude": 39.92
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 3,
+    "fields": {
+      "name": "Азов",
+      "latitude": 47.11,
+      "longitude": 39.42
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 4,
+    "fields": {
+      "name": "Александров",
+      "latitude": 56.4,
+      "longitude": 38.71
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 5,
+    "fields": {
+      "name": "Алексин",
+      "latitude": 54.51,
+      "longitude": 37.07
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 6,
+    "fields": {
+      "name": "Альметьевск",
+      "latitude": 54.9,
+      "longitude": 52.32
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 7,
+    "fields": {
+      "name": "Анадырь",
+      "latitude": 64.73,
+      "longitude": 177.51
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 8,
+    "fields": {
+      "name": "Анапа",
+      "latitude": 44.89,
+      "longitude": 37.32
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 9,
+    "fields": {
+      "name": "Ангарск",
+      "latitude": 52.54,
+      "longitude": 103.89
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 10,
+    "fields": {
+      "name": "Анжеро-Судженск",
+      "latitude": 56.08,
+      "longitude": 86.03
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 11,
+    "fields": {
+      "name": "Апатиты",
+      "latitude": 67.56,
+      "longitude": 33.4
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 12,
+    "fields": {
+      "name": "Арзамас",
+      "latitude": 55.39,
+      "longitude": 43.84
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 13,
+    "fields": {
+      "name": "Армавир",
+      "latitude": 44.99,
+      "longitude": 41.12
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 14,
+    "fields": {
+      "name": "Арсеньев",
+      "latitude": 44.15,
+      "longitude": 133.28
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 15,
+    "fields": {
+      "name": "Артём",
+      "latitude": 43.36,
+      "longitude": 132.19
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 16,
+    "fields": {
+      "name": "Архангельск",
+      "latitude": 64.54,
+      "longitude": 40.54
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 17,
+    "fields": {
+      "name": "Асбест",
+      "latitude": 57.01,
+      "longitude": 61.46
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 18,
+    "fields": {
+      "name": "Астрахань",
+      "latitude": 46.35,
+      "longitude": 48.04
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 19,
+    "fields": {
+      "name": "Ачинск",
+      "latitude": 56.27,
+      "longitude": 90.5
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 20,
+    "fields": {
+      "name": "Балаково",
+      "latitude": 52.03,
+      "longitude": 47.8
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 21,
+    "fields": {
+      "name": "Балахна",
+      "latitude": 56.49,
+      "longitude": 43.6
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 22,
+    "fields": {
+      "name": "Балашиха",
+      "latitude": 55.81,
+      "longitude": 37.96
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 23,
+    "fields": {
+      "name": "Балашов",
+      "latitude": 51.55,
+      "longitude": 43.17
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 24,
+    "fields": {
+      "name": "Барнаул",
+      "latitude": 53.36,
+      "longitude": 83.76
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 25,
+    "fields": {
+      "name": "Батайск",
+      "latitude": 47.14,
+      "longitude": 39.75
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 26,
+    "fields": {
+      "name": "Белгород",
+      "latitude": 50.61,
+      "longitude": 36.58
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 27,
+    "fields": {
+      "name": "Белебей",
+      "latitude": 54.12,
+      "longitude": 54.12
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 28,
+    "fields": {
+      "name": "Белово",
+      "latitude": 54.42,
+      "longitude": 86.3
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 29,
+    "fields": {
+      "name": "Белогорск",
+      "latitude": 50.92,
+      "longitude": 128.48
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 30,
+    "fields": {
+      "name": "Белорецк",
+      "latitude": 53.96,
+      "longitude": 58.4
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 31,
+    "fields": {
+      "name": "Белореченск",
+      "latitude": 44.77,
+      "longitude": 39.88
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 32,
+    "fields": {
+      "name": "Бердск",
+      "latitude": 54.76,
+      "longitude": 83.1
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 33,
+    "fields": {
+      "name": "Березники",
+      "latitude": 59.41,
+      "longitude": 56.82
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 34,
+    "fields": {
+      "name": "Берёзовский",
+      "latitude": 55.6,
+      "longitude": 86.2
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 35,
+    "fields": {
+      "name": "Бийск",
+      "latitude": 52.54,
+      "longitude": 85.2
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 36,
+    "fields": {
+      "name": "Биробиджан",
+      "latitude": 48.79,
+      "longitude": 132.92
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 37,
+    "fields": {
+      "name": "Благовещенск",
+      "latitude": 50.28,
+      "longitude": 127.54
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 38,
+    "fields": {
+      "name": "Бор",
+      "latitude": 56.36,
+      "longitude": 44.07
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 39,
+    "fields": {
+      "name": "Борисоглебск",
+      "latitude": 51.37,
+      "longitude": 42.08
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 40,
+    "fields": {
+      "name": "Боровичи",
+      "latitude": 58.39,
+      "longitude": 33.92
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 41,
+    "fields": {
+      "name": "Братск",
+      "latitude": 56.13,
+      "longitude": 101.61
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 42,
+    "fields": {
+      "name": "Брянск",
+      "latitude": 53.25,
+      "longitude": 34.37
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 43,
+    "fields": {
+      "name": "Бугульма",
+      "latitude": 54.54,
+      "longitude": 52.8
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 44,
+    "fields": {
+      "name": "Бугуруслан",
+      "latitude": 53.66,
+      "longitude": 52.44
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 45,
+    "fields": {
+      "name": "Будённовск",
+      "latitude": 44.78,
+      "longitude": 44.17
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 46,
+    "fields": {
+      "name": "Бузулук",
+      "latitude": 52.78,
+      "longitude": 52.26
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 47,
+    "fields": {
+      "name": "Буйнакск",
+      "latitude": 42.82,
+      "longitude": 47.12
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 48,
+    "fields": {
+      "name": "Великие Луки",
+      "latitude": 56.34,
+      "longitude": 30.55
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 49,
+    "fields": {
+      "name": "Великий Новгород",
+      "latitude": 58.52,
+      "longitude": 31.27
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 50,
+    "fields": {
+      "name": "Верхняя Пышма",
+      "latitude": 56.97,
+      "longitude": 60.58
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 51,
+    "fields": {
+      "name": "Видное",
+      "latitude": 55.55,
+      "longitude": 37.71
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 52,
+    "fields": {
+      "name": "Владивосток",
+      "latitude": 43.11,
+      "longitude": 131.87
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 53,
+    "fields": {
+      "name": "Владикавказ",
+      "latitude": 43.04,
+      "longitude": 44.67
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 54,
+    "fields": {
+      "name": "Владимир",
+      "latitude": 56.14,
+      "longitude": 40.4
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 55,
+    "fields": {
+      "name": "Волгоград",
+      "latitude": 48.72,
+      "longitude": 44.5
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 56,
+    "fields": {
+      "name": "Волгодонск",
+      "latitude": 47.51,
+      "longitude": 42.15
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 57,
+    "fields": {
+      "name": "Волжск",
+      "latitude": 55.87,
+      "longitude": 48.36
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 58,
+    "fields": {
+      "name": "Волжский",
+      "latitude": 48.79,
+      "longitude": 44.78
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 59,
+    "fields": {
+      "name": "Вологда",
+      "latitude": 59.22,
+      "longitude": 39.88
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 60,
+    "fields": {
+      "name": "Вольск",
+      "latitude": 52.05,
+      "longitude": 47.38
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 61,
+    "fields": {
+      "name": "Воркута",
+      "latitude": 67.5,
+      "longitude": 64.05
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 62,
+    "fields": {
+      "name": "Воронеж",
+      "latitude": 51.67,
+      "longitude": 39.18
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 63,
+    "fields": {
+      "name": "Воскресенск",
+      "latitude": 55.32,
+      "longitude": 38.65
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 64,
+    "fields": {
+      "name": "Восточное Дегунино",
+      "latitude": 55.88,
+      "longitude": 37.56
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 65,
+    "fields": {
+      "name": "Воткинск",
+      "latitude": 57.05,
+      "longitude": 53.99
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 66,
+    "fields": {
+      "name": "Выборг",
+      "latitude": 60.71,
+      "longitude": 28.75
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 67,
+    "fields": {
+      "name": "Выкса",
+      "latitude": 55.32,
+      "longitude": 42.17
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 68,
+    "fields": {
+      "name": "Вышний Волочек",
+      "latitude": 57.59,
+      "longitude": 34.56
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 69,
+    "fields": {
+      "name": "Вязьма",
+      "latitude": 55.21,
+      "longitude": 34.3
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 70,
+    "fields": {
+      "name": "Гатчина",
+      "latitude": 59.58,
+      "longitude": 30.13
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 71,
+    "fields": {
+      "name": "Геленджик",
+      "latitude": 44.56,
+      "longitude": 38.08
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 72,
+    "fields": {
+      "name": "Георгиевск",
+      "latitude": 44.15,
+      "longitude": 43.47
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 73,
+    "fields": {
+      "name": "Глазов",
+      "latitude": 58.14,
+      "longitude": 52.66
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 74,
+    "fields": {
+      "name": "Горно-Алтайск",
+      "latitude": 51.96,
+      "longitude": 85.92
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 75,
+    "fields": {
+      "name": "Грозный",
+      "latitude": 43.31,
+      "longitude": 45.69
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 76,
+    "fields": {
+      "name": "Губкин",
+      "latitude": 51.28,
+      "longitude": 37.55
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 77,
+    "fields": {
+      "name": "Гуково",
+      "latitude": 48.06,
+      "longitude": 39.94
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 78,
+    "fields": {
+      "name": "Гусь-Хрустальный",
+      "latitude": 55.61,
+      "longitude": 40.65
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 79,
+    "fields": {
+      "name": "Дербент",
+      "latitude": 42.07,
+      "longitude": 48.29
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 80,
+    "fields": {
+      "name": "Дзержинск",
+      "latitude": 56.24,
+      "longitude": 43.46
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 81,
+    "fields": {
+      "name": "Дмитров",
+      "latitude": 56.34,
+      "longitude": 37.52
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 82,
+    "fields": {
+      "name": "Долгопрудный",
+      "latitude": 55.95,
+      "longitude": 37.5
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 83,
+    "fields": {
+      "name": "Домодедово",
+      "latitude": 55.44,
+      "longitude": 37.75
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 84,
+    "fields": {
+      "name": "Донецк",
+      "latitude": 48.34,
+      "longitude": 39.96
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 85,
+    "fields": {
+      "name": "Дубна",
+      "latitude": 56.73,
+      "longitude": 37.17
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 86,
+    "fields": {
+      "name": "Егорьевск",
+      "latitude": 55.38,
+      "longitude": 39.03
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 87,
+    "fields": {
+      "name": "Ейск",
+      "latitude": 46.71,
+      "longitude": 38.27
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 88,
+    "fields": {
+      "name": "Екатеринбург",
+      "latitude": 56.85,
+      "longitude": 60.61
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 89,
+    "fields": {
+      "name": "Елабуга",
+      "latitude": 55.76,
+      "longitude": 52.06
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 90,
+    "fields": {
+      "name": "Елец",
+      "latitude": 52.62,
+      "longitude": 38.5
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 91,
+    "fields": {
+      "name": "Ессентуки",
+      "latitude": 44.04,
+      "longitude": 42.86
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 93,
+    "fields": {
+      "name": "Железногорск",
+      "latitude": 52.33,
+      "longitude": 35.37
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 94,
+    "fields": {
+      "name": "Железнодорожный",
+      "latitude": 55.74,
+      "longitude": 38.02
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 95,
+    "fields": {
+      "name": "Жигулевск",
+      "latitude": 53.4,
+      "longitude": 49.5
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 96,
+    "fields": {
+      "name": "Жуковский",
+      "latitude": 55.6,
+      "longitude": 38.12
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 97,
+    "fields": {
+      "name": "Заречный",
+      "latitude": 53.13,
+      "longitude": 46.58
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 99,
+    "fields": {
+      "name": "Заринск",
+      "latitude": 53.71,
+      "longitude": 84.95
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 100,
+    "fields": {
+      "name": "Зеленогорск",
+      "latitude": 56.11,
+      "longitude": 94.6
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 101,
+    "fields": {
+      "name": "Зеленоград",
+      "latitude": 55.98,
+      "longitude": 37.18
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 102,
+    "fields": {
+      "name": "Зеленодольск",
+      "latitude": 55.84,
+      "longitude": 48.52
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 103,
+    "fields": {
+      "name": "Златоуст",
+      "latitude": 55.17,
+      "longitude": 59.65
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 104,
+    "fields": {
+      "name": "Иваново",
+      "latitude": 57.0,
+      "longitude": 40.97
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 105,
+    "fields": {
+      "name": "Ивантеевка",
+      "latitude": 55.97,
+      "longitude": 37.92
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 106,
+    "fields": {
+      "name": "Ижевск",
+      "latitude": 56.85,
+      "longitude": 53.2
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 107,
+    "fields": {
+      "name": "Иркутск",
+      "latitude": 52.3,
+      "longitude": 104.3
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 108,
+    "fields": {
+      "name": "Искитим",
+      "latitude": 54.64,
+      "longitude": 83.3
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 109,
+    "fields": {
+      "name": "Ишим",
+      "latitude": 56.11,
+      "longitude": 69.49
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 110,
+    "fields": {
+      "name": "Ишимбай",
+      "latitude": 53.45,
+      "longitude": 56.04
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 111,
+    "fields": {
+      "name": "Йошкар-Ола",
+      "latitude": 56.64,
+      "longitude": 47.89
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 112,
+    "fields": {
+      "name": "Казань",
+      "latitude": 55.79,
+      "longitude": 49.12
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 113,
+    "fields": {
+      "name": "Калининград",
+      "latitude": 54.71,
+      "longitude": 20.51
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 114,
+    "fields": {
+      "name": "Калуга",
+      "latitude": 54.53,
+      "longitude": 36.28
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 115,
+    "fields": {
+      "name": "Каменск",
+      "latitude": 48.32,
+      "longitude": 40.26
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 116,
+    "fields": {
+      "name": "Каменск-Уральский",
+      "latitude": 56.42,
+      "longitude": 61.93
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 117,
+    "fields": {
+      "name": "Камышин",
+      "latitude": 50.1,
+      "longitude": 45.42
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 118,
+    "fields": {
+      "name": "Канск",
+      "latitude": 56.2,
+      "longitude": 95.72
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 119,
+    "fields": {
+      "name": "Каспийск",
+      "latitude": 42.88,
+      "longitude": 47.64
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 120,
+    "fields": {
+      "name": "Кемерово",
+      "latitude": 55.33,
+      "longitude": 86.08
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 121,
+    "fields": {
+      "name": "Кизляр",
+      "latitude": 43.85,
+      "longitude": 46.71
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 122,
+    "fields": {
+      "name": "Кимры",
+      "latitude": 56.87,
+      "longitude": 37.35
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 123,
+    "fields": {
+      "name": "Кингисепп",
+      "latitude": 9.37,
+      "longitude": 28.61
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 124,
+    "fields": {
+      "name": "Кинешма",
+      "latitude": 57.44,
+      "longitude": 42.13
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 125,
+    "fields": {
+      "name": "Кириши",
+      "latitude": 59.45,
+      "longitude": 32.02
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 126,
+    "fields": {
+      "name": "Киров",
+      "latitude": 58.6,
+      "longitude": 49.66
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 127,
+    "fields": {
+      "name": "Кирово-Чепецк",
+      "latitude": 58.55,
+      "longitude": 50.04
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 128,
+    "fields": {
+      "name": "Киселёвск",
+      "latitude": 53.99,
+      "longitude": 86.66
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 129,
+    "fields": {
+      "name": "Кисловодск",
+      "latitude": 43.91,
+      "longitude": 42.72
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 130,
+    "fields": {
+      "name": "Климовск",
+      "latitude": 55.36,
+      "longitude": 37.53
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 131,
+    "fields": {
+      "name": "Клин",
+      "latitude": 56.33,
+      "longitude": 36.73
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 132,
+    "fields": {
+      "name": "Клинцы",
+      "latitude": 52.76,
+      "longitude": 32.24
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 133,
+    "fields": {
+      "name": "Ковров",
+      "latitude": 56.36,
+      "longitude": 41.32
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 134,
+    "fields": {
+      "name": "Когалым",
+      "latitude": 62.27,
+      "longitude": 74.48
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 135,
+    "fields": {
+      "name": "Коломна",
+      "latitude": 55.08,
+      "longitude": 38.78
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 136,
+    "fields": {
+      "name": "Колпино",
+      "latitude": 59.75,
+      "longitude": 30.59
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 137,
+    "fields": {
+      "name": "Комсомольск-на-Амуре",
+      "latitude": 50.55,
+      "longitude": 137.01
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 138,
+    "fields": {
+      "name": "Копейск",
+      "latitude": 55.12,
+      "longitude": 61.63
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 139,
+    "fields": {
+      "name": "Королёв",
+      "latitude": 55.91,
+      "longitude": 37.83
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 140,
+    "fields": {
+      "name": "Кострома",
+      "latitude": 57.77,
+      "longitude": 40.93
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 141,
+    "fields": {
+      "name": "Котлас",
+      "latitude": 61.26,
+      "longitude": 46.65
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 142,
+    "fields": {
+      "name": "Красногорск",
+      "latitude": 55.82,
+      "longitude": 37.33
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 143,
+    "fields": {
+      "name": "Краснодар",
+      "latitude": 45.04,
+      "longitude": 38.98
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 144,
+    "fields": {
+      "name": "Краснокаменск",
+      "latitude": 50.1,
+      "longitude": 118.04
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 145,
+    "fields": {
+      "name": "Краснокамск",
+      "latitude": 58.08,
+      "longitude": 55.76
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 146,
+    "fields": {
+      "name": "Краснотурьинск",
+      "latitude": 59.77,
+      "longitude": 60.21
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 147,
+    "fields": {
+      "name": "Красноярск",
+      "latitude": 56.02,
+      "longitude": 92.87
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 148,
+    "fields": {
+      "name": "Кропоткин",
+      "latitude": 45.44,
+      "longitude": 40.58
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 149,
+    "fields": {
+      "name": "Крымск",
+      "latitude": 44.93,
+      "longitude": 37.99
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 150,
+    "fields": {
+      "name": "Кстово",
+      "latitude": 56.15,
+      "longitude": 44.2
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 151,
+    "fields": {
+      "name": "Кузнецк",
+      "latitude": 53.12,
+      "longitude": 46.6
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 152,
+    "fields": {
+      "name": "Кумертау",
+      "latitude": 52.77,
+      "longitude": 55.78
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 153,
+    "fields": {
+      "name": "Кунгур",
+      "latitude": 57.44,
+      "longitude": 56.96
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 154,
+    "fields": {
+      "name": "Курган",
+      "latitude": 55.45,
+      "longitude": 65.33
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 155,
+    "fields": {
+      "name": "Курск",
+      "latitude": 51.74,
+      "longitude": 36.19
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 156,
+    "fields": {
+      "name": "Кызыл",
+      "latitude": 51.71,
+      "longitude": 94.45
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 157,
+    "fields": {
+      "name": "Лабинск",
+      "latitude": 44.63,
+      "longitude": 40.74
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 158,
+    "fields": {
+      "name": "Лениногорск",
+      "latitude": 54.6,
+      "longitude": 52.46
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 159,
+    "fields": {
+      "name": "Ленинск-Кузнецкий",
+      "latitude": 54.66,
+      "longitude": 86.17
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 160,
+    "fields": {
+      "name": "Лесной",
+      "latitude": 57.62,
+      "longitude": 63.08
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 161,
+    "fields": {
+      "name": "Лесосибирск",
+      "latitude": 58.24,
+      "longitude": 92.48
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 162,
+    "fields": {
+      "name": "Ливны",
+      "latitude": 52.43,
+      "longitude": 37.61
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 163,
+    "fields": {
+      "name": "Липецк",
+      "latitude": 52.6,
+      "longitude": 39.57
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 164,
+    "fields": {
+      "name": "Лиски",
+      "latitude": 50.98,
+      "longitude": 39.52
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 165,
+    "fields": {
+      "name": "Лобня",
+      "latitude": 56.01,
+      "longitude": 37.48
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 166,
+    "fields": {
+      "name": "Лысьва",
+      "latitude": 58.11,
+      "longitude": 57.81
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 167,
+    "fields": {
+      "name": "Лыткарино",
+      "latitude": 55.58,
+      "longitude": 37.91
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 168,
+    "fields": {
+      "name": "Люберцы",
+      "latitude": 55.68,
+      "longitude": 37.89
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 169,
+    "fields": {
+      "name": "Магадан",
+      "latitude": 59.56,
+      "longitude": 150.8
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 170,
+    "fields": {
+      "name": "Магас",
+      "latitude": 43.22,
+      "longitude": 44.77
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 171,
+    "fields": {
+      "name": "Магнитогорск",
+      "latitude": 53.42,
+      "longitude": 59.05
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 172,
+    "fields": {
+      "name": "Майкоп",
+      "latitude": 44.61,
+      "longitude": 40.11
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 173,
+    "fields": {
+      "name": "Махачкала",
+      "latitude": 42.98,
+      "longitude": 47.5
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 174,
+    "fields": {
+      "name": "Междуреченск",
+      "latitude": 53.69,
+      "longitude": 88.06
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 175,
+    "fields": {
+      "name": "Мелеуз",
+      "latitude": 52.96,
+      "longitude": 55.93
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 176,
+    "fields": {
+      "name": "Миасс",
+      "latitude": 55.05,
+      "longitude": 60.11
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 177,
+    "fields": {
+      "name": "Минеральные Воды",
+      "latitude": 44.21,
+      "longitude": 43.14
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 178,
+    "fields": {
+      "name": "Москва",
+      "latitude": 55.75,
+      "longitude": 37.62
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 179,
+    "fields": {
+      "name": "Минусинск",
+      "latitude": 53.71,
+      "longitude": 91.69
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 180,
+    "fields": {
+      "name": "Михайловка",
+      "latitude": 50.06,
+      "longitude": 43.24
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 181,
+    "fields": {
+      "name": "Михайловск",
+      "latitude": 45.13,
+      "longitude": 42.03
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 182,
+    "fields": {
+      "name": "Мичуринск",
+      "latitude": 52.9,
+      "longitude": 40.49
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 183,
+    "fields": {
+      "name": "Мурманск",
+      "latitude": 68.98,
+      "longitude": 33.09
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 184,
+    "fields": {
+      "name": "Муром",
+      "latitude": 55.58,
+      "longitude": 42.04
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 185,
+    "fields": {
+      "name": "Мытищи",
+      "latitude": 55.91,
+      "longitude": 37.73
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 186,
+    "fields": {
+      "name": "Набережные Челны",
+      "latitude": 55.73,
+      "longitude": 52.41
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 187,
+    "fields": {
+      "name": "Назарово",
+      "latitude": 56.01,
+      "longitude": 90.4
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 188,
+    "fields": {
+      "name": "Назрань",
+      "latitude": 43.23,
+      "longitude": 44.77
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 189,
+    "fields": {
+      "name": "Нальчик",
+      "latitude": 43.5,
+      "longitude": 43.62
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 190,
+    "fields": {
+      "name": "Наро-Фоминск",
+      "latitude": 55.39,
+      "longitude": 36.73
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 191,
+    "fields": {
+      "name": "Нарьян-Мар",
+      "latitude": 67.64,
+      "longitude": 53.0
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 192,
+    "fields": {
+      "name": "Находка",
+      "latitude": 42.81,
+      "longitude": 132.87
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 193,
+    "fields": {
+      "name": "Невинномысск",
+      "latitude": 44.63,
+      "longitude": 41.94
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 194,
+    "fields": {
+      "name": "Нерюнгри",
+      "latitude": 56.67,
+      "longitude": 124.64
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 195,
+    "fields": {
+      "name": "Нефтекамск",
+      "latitude": 56.09,
+      "longitude": 54.27
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 196,
+    "fields": {
+      "name": "Нефтеюганск",
+      "latitude": 61.1,
+      "longitude": 72.6
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 197,
+    "fields": {
+      "name": "Нижневартовск",
+      "latitude": 60.93,
+      "longitude": 76.55
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 198,
+    "fields": {
+      "name": "Нижнекамск",
+      "latitude": 55.64,
+      "longitude": 51.82
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 199,
+    "fields": {
+      "name": "Нижний Новгород",
+      "latitude": 56.33,
+      "longitude": 44.0
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 200,
+    "fields": {
+      "name": "Нижний Тагил",
+      "latitude": 57.92,
+      "longitude": 59.97
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 201,
+    "fields": {
+      "name": "Ново-Переделкино",
+      "latitude": 55.65,
+      "longitude": 37.34
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 202,
+    "fields": {
+      "name": "Новоалтайск",
+      "latitude": 53.39,
+      "longitude": 83.94
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 203,
+    "fields": {
+      "name": "Новокузнецк",
+      "latitude": 53.76,
+      "longitude": 87.11
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 204,
+    "fields": {
+      "name": "Новокуйбышевск",
+      "latitude": 53.1,
+      "longitude": 49.95
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 205,
+    "fields": {
+      "name": "Новомосковск",
+      "latitude": 54.01,
+      "longitude": 38.28
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 206,
+    "fields": {
+      "name": "Новороссийск",
+      "latitude": 44.72,
+      "longitude": 37.77
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 207,
+    "fields": {
+      "name": "Новосибирск",
+      "latitude": 55.04,
+      "longitude": 82.93
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 208,
+    "fields": {
+      "name": "Новотроицк",
+      "latitude": 51.2,
+      "longitude": 58.33
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 209,
+    "fields": {
+      "name": "Новоуральск",
+      "latitude": 57.24,
+      "longitude": 60.08
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 210,
+    "fields": {
+      "name": "Новочебоксарск",
+      "latitude": 56.11,
+      "longitude": 47.48
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 211,
+    "fields": {
+      "name": "Новочеркасск",
+      "latitude": 47.42,
+      "longitude": 40.09
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 212,
+    "fields": {
+      "name": "Новошахтинск",
+      "latitude": 47.76,
+      "longitude": 39.93
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 213,
+    "fields": {
+      "name": "Новый Уренгой",
+      "latitude": 66.08,
+      "longitude": 76.63
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 214,
+    "fields": {
+      "name": "Ногинск",
+      "latitude": 55.87,
+      "longitude": 38.44
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 215,
+    "fields": {
+      "name": "Норильск",
+      "latitude": 69.35,
+      "longitude": 88.2
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 216,
+    "fields": {
+      "name": "Ноябрьск",
+      "latitude": 63.19,
+      "longitude": 75.44
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 217,
+    "fields": {
+      "name": "Нягань",
+      "latitude": 62.14,
+      "longitude": 65.39
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 218,
+    "fields": {
+      "name": "Обнинск",
+      "latitude": 55.1,
+      "longitude": 36.61
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 219,
+    "fields": {
+      "name": "Одинцово",
+      "latitude": 55.68,
+      "longitude": 37.28
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 220,
+    "fields": {
+      "name": "Озёрск",
+      "latitude": 55.76,
+      "longitude": 60.7
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 221,
+    "fields": {
+      "name": "Октябрьский",
+      "latitude": 54.48,
+      "longitude": 53.47
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 222,
+    "fields": {
+      "name": "Омск",
+      "latitude": 54.99,
+      "longitude": 73.37
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 223,
+    "fields": {
+      "name": "Орёл",
+      "latitude": 52.97,
+      "longitude": 36.08
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 224,
+    "fields": {
+      "name": "Оренбург",
+      "latitude": 51.77,
+      "longitude": 55.1
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 225,
+    "fields": {
+      "name": "Орехово-Зуево",
+      "latitude": 55.81,
+      "longitude": 38.96
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 226,
+    "fields": {
+      "name": "Орск",
+      "latitude": 51.2,
+      "longitude": 58.57
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 227,
+    "fields": {
+      "name": "Отрадный",
+      "latitude": 53.38,
+      "longitude": 51.35
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 228,
+    "fields": {
+      "name": "Павловский Посад",
+      "latitude": 55.78,
+      "longitude": 38.65
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 229,
+    "fields": {
+      "name": "Пенза",
+      "latitude": 53.2,
+      "longitude": 45.0
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 230,
+    "fields": {
+      "name": "Первоуральск",
+      "latitude": 56.91,
+      "longitude": 59.94
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 231,
+    "fields": {
+      "name": "Пермь",
+      "latitude": 58.01,
+      "longitude": 56.25
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 232,
+    "fields": {
+      "name": "Петергоф",
+      "latitude": 59.88,
+      "longitude": 29.9
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 233,
+    "fields": {
+      "name": "Петрозаводск",
+      "latitude": 61.78,
+      "longitude": 34.35
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 234,
+    "fields": {
+      "name": "Петропавловск-Камчатский",
+      "latitude": 53.04,
+      "longitude": 158.65
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 235,
+    "fields": {
+      "name": "Подольск",
+      "latitude": 55.42,
+      "longitude": 37.55
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 236,
+    "fields": {
+      "name": "Полевской",
+      "latitude": 56.44,
+      "longitude": 60.19
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 237,
+    "fields": {
+      "name": "Прокопьевск",
+      "latitude": 53.91,
+      "longitude": 86.72
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 238,
+    "fields": {
+      "name": "Прохладный",
+      "latitude": 43.76,
+      "longitude": 44.03
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 239,
+    "fields": {
+      "name": "Псков",
+      "latitude": 57.81,
+      "longitude": 28.35
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 240,
+    "fields": {
+      "name": "Пушкин",
+      "latitude": 59.71,
+      "longitude": 30.4
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 241,
+    "fields": {
+      "name": "Пушкино",
+      "latitude": 56.02,
+      "longitude": 37.87
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 242,
+    "fields": {
+      "name": "Пятигорск",
+      "latitude": 44.05,
+      "longitude": 43.06
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 243,
+    "fields": {
+      "name": "Раменское",
+      "latitude": 55.57,
+      "longitude": 38.23
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 244,
+    "fields": {
+      "name": "Ревда",
+      "latitude": 56.8,
+      "longitude": 59.93
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 245,
+    "fields": {
+      "name": "Реутов",
+      "latitude": 55.76,
+      "longitude": 37.86
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 246,
+    "fields": {
+      "name": "Ржев",
+      "latitude": 56.26,
+      "longitude": 34.33
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 247,
+    "fields": {
+      "name": "Рославль",
+      "latitude": 53.95,
+      "longitude": 32.86
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 248,
+    "fields": {
+      "name": "Россошь",
+      "latitude": 51.12,
+      "longitude": 38.51
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 250,
+    "fields": {
+      "name": "Ростов-на-Дону",
+      "latitude": 47.23,
+      "longitude": 39.72
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 251,
+    "fields": {
+      "name": "Рубцовск",
+      "latitude": 51.51,
+      "longitude": 81.21
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 252,
+    "fields": {
+      "name": "Рыбинск",
+      "latitude": 58.04,
+      "longitude": 38.84
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 253,
+    "fields": {
+      "name": "Рязань",
+      "latitude": 54.63,
+      "longitude": 39.69
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 254,
+    "fields": {
+      "name": "Салават",
+      "latitude": 53.38,
+      "longitude": 55.91
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 255,
+    "fields": {
+      "name": "Салехард",
+      "latitude": 66.53,
+      "longitude": 66.6
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 256,
+    "fields": {
+      "name": "Сальск",
+      "latitude": 46.47,
+      "longitude": 41.54
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 257,
+    "fields": {
+      "name": "Самара",
+      "latitude": 53.2,
+      "longitude": 50.15
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 258,
+    "fields": {
+      "name": "Санкт-Петербург",
+      "latitude": 59.94,
+      "longitude": 30.31
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 259,
+    "fields": {
+      "name": "Саранск",
+      "latitude": 54.18,
+      "longitude": 45.17
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 260,
+    "fields": {
+      "name": "Сарапул",
+      "latitude": 56.48,
+      "longitude": 53.8
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 261,
+    "fields": {
+      "name": "Саратов",
+      "latitude": 51.54,
+      "longitude": 46.01
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 262,
+    "fields": {
+      "name": "Саров",
+      "latitude": 54.94,
+      "longitude": 43.32
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 263,
+    "fields": {
+      "name": "Свободный",
+      "latitude": 51.38,
+      "longitude": 128.14
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 264,
+    "fields": {
+      "name": "Северодвинск",
+      "latitude": 64.56,
+      "longitude": 39.83
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 265,
+    "fields": {
+      "name": "Североморск",
+      "latitude": 69.07,
+      "longitude": 33.42
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 266,
+    "fields": {
+      "name": "Северск",
+      "latitude": 56.6,
+      "longitude": 84.89
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 267,
+    "fields": {
+      "name": "Сергиев Посад",
+      "latitude": 56.3,
+      "longitude": 38.13
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 268,
+    "fields": {
+      "name": "Серов",
+      "latitude": 59.6,
+      "longitude": 60.58
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 269,
+    "fields": {
+      "name": "Серпухов",
+      "latitude": 54.92,
+      "longitude": 37.41
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 270,
+    "fields": {
+      "name": "Сибай",
+      "latitude": 52.72,
+      "longitude": 58.67
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 271,
+    "fields": {
+      "name": "Славянск-на-Кубани",
+      "latitude": 45.26,
+      "longitude": 38.13
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 272,
+    "fields": {
+      "name": "Смоленск",
+      "latitude": 54.78,
+      "longitude": 32.04
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 273,
+    "fields": {
+      "name": "Снежинск",
+      "latitude": 56.09,
+      "longitude": 60.73
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 274,
+    "fields": {
+      "name": "Соликамск",
+      "latitude": 59.63,
+      "longitude": 56.77
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 275,
+    "fields": {
+      "name": "Солнечногорск",
+      "latitude": 56.18,
+      "longitude": 36.98
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 276,
+    "fields": {
+      "name": "Сосновый Бор",
+      "latitude": 59.9,
+      "longitude": 29.09
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 277,
+    "fields": {
+      "name": "Сочи",
+      "latitude": 43.6,
+      "longitude": 39.73
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 278,
+    "fields": {
+      "name": "Ставрополь",
+      "latitude": 45.04,
+      "longitude": 41.97
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 279,
+    "fields": {
+      "name": "Старый Оскол",
+      "latitude": 51.3,
+      "longitude": 37.84
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 280,
+    "fields": {
+      "name": "Стерлитамак",
+      "latitude": 53.62,
+      "longitude": 55.95
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 281,
+    "fields": {
+      "name": "Ступино",
+      "latitude": 54.9,
+      "longitude": 38.07
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 282,
+    "fields": {
+      "name": "Сунжа",
+      "latitude": 43.32,
+      "longitude": 45.05
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 283,
+    "fields": {
+      "name": "Сургут",
+      "latitude": 61.25,
+      "longitude": 73.42
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 284,
+    "fields": {
+      "name": "Сызрань",
+      "latitude": 53.16,
+      "longitude": 48.47
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 285,
+    "fields": {
+      "name": "Сыктывкар",
+      "latitude": 61.68,
+      "longitude": 50.81
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 286,
+    "fields": {
+      "name": "Таганрог",
+      "latitude": 47.24,
+      "longitude": 38.9
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 287,
+    "fields": {
+      "name": "Талнах",
+      "latitude": 69.49,
+      "longitude": 88.4
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 288,
+    "fields": {
+      "name": "Тамбов",
+      "latitude": 52.73,
+      "longitude": 41.44
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 289,
+    "fields": {
+      "name": "Тверь",
+      "latitude": 56.86,
+      "longitude": 35.9
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 290,
+    "fields": {
+      "name": "Тимашёвск",
+      "latitude": 45.62,
+      "longitude": 38.95
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 291,
+    "fields": {
+      "name": "Тихвин",
+      "latitude": 59.65,
+      "longitude": 33.53
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 292,
+    "fields": {
+      "name": "Тихорецк",
+      "latitude": 45.85,
+      "longitude": 40.13
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 293,
+    "fields": {
+      "name": "Тобольск",
+      "latitude": 58.2,
+      "longitude": 68.25
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 294,
+    "fields": {
+      "name": "Тольятти",
+      "latitude": 53.53,
+      "longitude": 49.35
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 295,
+    "fields": {
+      "name": "Томск",
+      "latitude": 56.5,
+      "longitude": 84.97
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 296,
+    "fields": {
+      "name": "Троицк",
+      "latitude": 54.1,
+      "longitude": 61.58
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 297,
+    "fields": {
+      "name": "Туапсе",
+      "latitude": 44.11,
+      "longitude": 39.08
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 298,
+    "fields": {
+      "name": "Туймазы",
+      "latitude": 54.61,
+      "longitude": 53.71
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 299,
+    "fields": {
+      "name": "Тула",
+      "latitude": 54.2,
+      "longitude": 37.62
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 300,
+    "fields": {
+      "name": "Тулун",
+      "latitude": 54.56,
+      "longitude": 100.58
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 301,
+    "fields": {
+      "name": "Тюмень",
+      "latitude": 57.15,
+      "longitude": 65.53
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 302,
+    "fields": {
+      "name": "Узловая",
+      "latitude": 53.98,
+      "longitude": 38.17
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 303,
+    "fields": {
+      "name": "Улан-Удэ",
+      "latitude": 51.83,
+      "longitude": 107.61
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 304,
+    "fields": {
+      "name": "Ульяновск",
+      "latitude": 54.33,
+      "longitude": 48.39
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 305,
+    "fields": {
+      "name": "Усолье-Сибирское",
+      "latitude": 52.75,
+      "longitude": 103.65
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 306,
+    "fields": {
+      "name": "Уссурийск",
+      "latitude": 43.8,
+      "longitude": 131.95
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 307,
+    "fields": {
+      "name": "Усть-Илимск",
+      "latitude": 58.0,
+      "longitude": 102.66
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 308,
+    "fields": {
+      "name": "Уфа",
+      "latitude": 54.74,
+      "longitude": 55.97
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 309,
+    "fields": {
+      "name": "Ухта",
+      "latitude": 63.57,
+      "longitude": 53.68
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 310,
+    "fields": {
+      "name": "Фрязево",
+      "latitude": 55.73,
+      "longitude": 38.46
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 311,
+    "fields": {
+      "name": "Фрязино",
+      "latitude": 55.96,
+      "longitude": 38.05
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 312,
+    "fields": {
+      "name": "Хабаровск",
+      "latitude": 48.48,
+      "longitude": 135.08
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 313,
+    "fields": {
+      "name": "Ханты-Мансийск",
+      "latitude": 61.0,
+      "longitude": 69.0
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 314,
+    "fields": {
+      "name": "Хасавюрт",
+      "latitude": 43.25,
+      "longitude": 46.59
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 315,
+    "fields": {
+      "name": "Химки",
+      "latitude": 55.9,
+      "longitude": 37.43
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 316,
+    "fields": {
+      "name": "Чайковский",
+      "latitude": 56.77,
+      "longitude": 54.11
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 317,
+    "fields": {
+      "name": "Чапаевск",
+      "latitude": 52.98,
+      "longitude": 49.71
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 318,
+    "fields": {
+      "name": "Чебоксары",
+      "latitude": 56.13,
+      "longitude": 47.25
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 319,
+    "fields": {
+      "name": "Челябинск",
+      "latitude": 55.15,
+      "longitude": 61.43
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 320,
+    "fields": {
+      "name": "Черёмушки",
+      "latitude": 55.66,
+      "longitude": 37.56
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 321,
+    "fields": {
+      "name": "Черемхово",
+      "latitude": 53.16,
+      "longitude": 103.07
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 322,
+    "fields": {
+      "name": "Череповец",
+      "latitude": 59.13,
+      "longitude": 37.9
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 323,
+    "fields": {
+      "name": "Черкесск",
+      "latitude": 44.22,
+      "longitude": 42.06
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 324,
+    "fields": {
+      "name": "Черногорск",
+      "latitude": 53.82,
+      "longitude": 91.28
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 325,
+    "fields": {
+      "name": "Чехов",
+      "latitude": 55.15,
+      "longitude": 37.48
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 326,
+    "fields": {
+      "name": "Чистополь",
+      "latitude": 55.36,
+      "longitude": 50.64
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 327,
+    "fields": {
+      "name": "Чита",
+      "latitude": 52.03,
+      "longitude": 113.5
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 328,
+    "fields": {
+      "name": "Чусовой",
+      "latitude": 58.3,
+      "longitude": 57.81
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 329,
+    "fields": {
+      "name": "Шадринск",
+      "latitude": 56.09,
+      "longitude": 63.63
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 330,
+    "fields": {
+      "name": "Шахты",
+      "latitude": 47.71,
+      "longitude": 40.21
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 331,
+    "fields": {
+      "name": "Шуя",
+      "latitude": 56.85,
+      "longitude": 41.39
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 332,
+    "fields": {
+      "name": "Щекино",
+      "latitude": 54.01,
+      "longitude": 37.52
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 333,
+    "fields": {
+      "name": "Щёлково",
+      "latitude": 55.93,
+      "longitude": 37.97
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 334,
+    "fields": {
+      "name": "Эжва",
+      "latitude": 61.81,
+      "longitude": 50.73
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 335,
+    "fields": {
+      "name": "Электросталь",
+      "latitude": 55.79,
+      "longitude": 38.45
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 336,
+    "fields": {
+      "name": "Элиста",
+      "latitude": 46.31,
+      "longitude": 44.26
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 337,
+    "fields": {
+      "name": "Энгельс",
+      "latitude": 51.48,
+      "longitude": 46.11
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 338,
+    "fields": {
+      "name": "Южно-Сахалинск",
+      "latitude": 46.95,
+      "longitude": 142.74
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 339,
+    "fields": {
+      "name": "Якутск",
+      "latitude": 62.03,
+      "longitude": 129.73
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 340,
+    "fields": {
+      "name": "Ярославль",
+      "latitude": 57.63,
+      "longitude": 39.87
+    }
+  },
+  {
+    "model": "weather.city",
+    "pk": 341,
+    "fields": {
+      "name": "Ярцево",
+      "latitude": 55.07,
+      "longitude": 32.7
+    }
+  }
+]
